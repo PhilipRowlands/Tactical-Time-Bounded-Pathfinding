@@ -13,6 +13,7 @@ INDEX:
 9.	MyBulletScript
 10.
 
+
 1.	INTRODUCTION
 This folder contains the source code for my Master's thesis. The general idea is that two AI teams will battle one another using different pathfinding criteria:
 one team focusses entirely on path length, while the other tries to balance this with self-preservation. Below I summarise the classes used.
