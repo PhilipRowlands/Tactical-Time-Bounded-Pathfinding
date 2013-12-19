@@ -1,0 +1,13 @@
+TACTICAL TIME-BOUNDED PATHFINDING
+
+INDEX:
+
+1.	Introduction
+2.	CreateNavMesh.cs
+3.	AStarOnly.cs
+
+1. INTRODUCTION
+This folder contains the source code for my Master's thesis. Below I summarise the classes used.
+
+2. CREATENAVMESH.CS
+This is the script I used to create the navigation mesh
